@@ -1,0 +1,14 @@
+//此代码为 Mx* 语言的库
+//编译器自动 import 这个文档
+//stdlib.mx
+
+int [] i_position;//一个地址，表示标准输入的地址
+int [] o_position;//一个地址，表示标准输出的地址
+//以上两个地址由于是整个程序最前面的两个变量
+//可以强制在编译的时候规定这两个变量的初始值
+char scan_char(){
+	return i_position[0];
+}
+void print_char(char x){
+	o_position[0] = x;
+}

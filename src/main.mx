@@ -1,0 +1,4 @@
+//import stdlib.mx; //这条语句不必执行，因为自动import所有的库
+int main(){
+	
+}

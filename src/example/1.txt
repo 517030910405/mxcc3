@@ -1,0 +1,48 @@
+string str;
+class myclass{
+    int [] a;
+    myclass b;
+    int[] func(int [] a){
+
+    }
+    void yes(){
+        this.a[1]=3;
+        b.a[a[0]]=this.a[1];
+        func(a)[a[1]]+1;
+        //return new void;
+        return ;
+    }
+    int no(){
+        int a;
+        func(this.a);
+        return a;
+    }
+    myclass(){
+        this.a = new int [5];
+        return ;
+    }
+}
+
+int main(int [] tick){
+    int myclass2 ;
+    myclass [] tt;
+    int c;
+    int func;
+    c=tt[1].a[1]+2;
+    tt = new myclass[tt[1].a[1]];
+    tick = new int[5];
+    return tt[1].a[1];
+    (++tick[tick[1]])++;
+    string str=new string;
+    str = "123"+"34"+str;
+    myclass t2 = null;
+    tt[1].a=null;
+    return 0;
+    bool tf = (tt[1].a== new int[4]);
+    println(toString((toString(5).parseInt())+"55".ord(3)));
+    //tt[1].a[1] = getInt();
+    for(int str=1;true;){
+        str=2;
+    }
+    while(true){}
+}
